@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\AndroidStudioProjects\SmartHome\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="D:\workspace\AndroidStudioProjects\SmartHome\build\intermediates\pre-dexed\debug\android-support-v4-633cd38bc9130647c7b392f3a48a5eca1237f429.jar" />
+    </item>
+    <item
+        jar="D:\workspace\AndroidStudioProjects\SmartHome\libs\zxing.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="D:\workspace\AndroidStudioProjects\SmartHome\build\intermediates\pre-dexed\debug\zxing-0cb8d90f1f19a758e5ee2c0ea2eead7dc4db2892.jar" />
+    </item>
+
+</items>
